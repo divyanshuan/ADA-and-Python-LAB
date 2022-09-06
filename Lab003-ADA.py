@@ -34,4 +34,6 @@ if __name__ == '__main__':
     size= len(mylist)-1
     #as index startb from 0
     quick_short(mylist, 0,size)
+    print(f"Shorted arry is {mylist}")
+
     
