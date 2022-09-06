@@ -28,7 +28,7 @@ def quick_short(mylist, low, high):
 
 
 if __name__ == '__main__':
-    mylist = [2, 4, 9, 6, 3, 8, 5]
+    mylist = [2, 4, 9, 6,8, 5]
     print(f"Unshorted arry is {mylist}")
     # printing unshorted arry
     size= len(mylist)-1
