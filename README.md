@@ -4,4 +4,4 @@
 <b>There will be two Branch in this repository other than main </b>
 
 * One is for **Analysis and Design of Algorithm Laboratory** and second for **Python Laboratory**
-* You cam switch **Branch** to view the solutions of specific subject
+* You can switch **Branch** to view the solutions of specific subject
